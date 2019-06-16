@@ -41,9 +41,9 @@
     },
     "_scale": {
       "__type__": "cc.Vec3",
-      "x": 0.3890625,
-      "y": 0.3890625,
-      "z": 0.3890625
+      "x": 0.5375,
+      "y": 0.5375,
+      "z": 0.5375
     },
     "_quat": {
       "__type__": "cc.Quat",
@@ -55,7 +55,8 @@
     "_zIndex": 0,
     "_is3DNode": true,
     "groupIndex": 0,
-    "_id": "c69ePg3O1PMIGBjfXFpzsT"
+    "autoReleaseAssets": false,
+    "_id": "0cc3a28d-7d33-4124-a527-0c454b0c8f3d"
   },
   {
     "__type__": "cc.Node",
@@ -76,7 +77,7 @@
     "_level": 1,
     "_components": [
       {
-        "__id__": 8
+        "__id__": 7
       }
     ],
     "_prefab": null,
@@ -233,9 +234,7 @@
         "__id__": 6
       }
     ],
-    "_prefab": {
-      "__id__": 7
-    },
+    "_prefab": null,
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
@@ -299,7 +298,7 @@
     "_spriteFrame": {
       "__uuid__": "472df5d3-35e7-4184-9e6c-7f41bee65ee3"
     },
-    "_stopped": true,
+    "_stopped": false,
     "playOnLoad": true,
     "autoRemoveOnFinish": false,
     "totalParticles": 1700,
@@ -355,7 +354,7 @@
       "x": 7,
       "y": 0
     },
-    "positionType": 0,
+    "positionType": 1,
     "emitterMode": 0,
     "gravity": {
       "__type__": "cc.Vec2",
@@ -377,17 +376,6 @@
     "rotatePerSVar": 0,
     "_N$preview": true,
     "_id": "45ehYkovdAlKL79GE26wDU"
-  },
-  {
-    "__type__": "cc.PrefabInfo",
-    "root": {
-      "__id__": 5
-    },
-    "asset": {
-      "__uuid__": "12db0e73-d89d-4f40-8680-d900afdcccd7"
-    },
-    "fileId": "3dEBTR5gdEepGZbKd+AQLC",
-    "sync": false
   },
   {
     "__type__": "cc.Canvas",
